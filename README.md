@@ -112,3 +112,6 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Result & Test
+- Scripts to create plots **plot1.R**, **plot2.R**, **plot3.R**, **plot4.R** are working correctly and plots are created in the same directory.
+- An optional script **plotAll.R** is created to test all 4 above scripts and creates all 4 plots.
